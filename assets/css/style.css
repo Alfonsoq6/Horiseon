@@ -52,12 +52,12 @@ p {
     background-position: center;
 }
 
-.float-left {
+.left {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.right {
     float: right;
     margin-left: 25px;
 }
